@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es el fixer 4 lol
+=======
+Esto es el fich 3
+>>>>>>> 033d36661d1a15f8072429381eb9e74fa3f9e089
